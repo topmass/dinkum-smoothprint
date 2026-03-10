@@ -1,0 +1,4 @@
+bin/
+obj/
+Libs/*.dll
+!Libs/README.md
